@@ -324,7 +324,22 @@
    rm -rf .git
    ```
 
+7.  원격 저장소 연결
+
+   ```
+   git remote add origin https://github.com/name/TIL.git
+   ```
+
+8. 원격 저장소 연결 여부 확인
+
+   ```
+   git remote -v
    
+   origin  https://github.com/name/TIL.git (fetch)
+   origin  https://github.com/name/TIL.git (push) 
+   ```
+
+9. 
 
 # Git의 3가지 공간
 
