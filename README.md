@@ -5,10 +5,14 @@
 
 
 
-# 1. Git
+# List
 
-- CLI
-- VScode
-- Markdown
+- CLI (Command-line Interface)
+    - VScode (Visual Studio Code)
+    - Markdown
 - Git
 - Github
+- Linux
+    - (Apache) Hadoop
+    - (Apache) Spark
+    - MongoDB
