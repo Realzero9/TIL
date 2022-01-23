@@ -184,6 +184,12 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+### Folders ###
+*_BasicMath_*/
+
+### Files ###
+*_BasicMath_*.md
+
 # Windows shortcuts
 *.lnk
 
