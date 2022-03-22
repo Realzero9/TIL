@@ -7,12 +7,12 @@
 
 # List of Realzero
 
-## [Github](https://github.com/Realzero9/TIL/Github.git)
+## [Github](https://github.com/Realzero9/TIL/tree/master/Github)
 
-- [git](https://github.com/Realzero9/TIL/Github/Git,Md.md.git)
-- [github](https://github.com/Realzero9/TIL/Github/Github.md.git)
+- [git](https://github.com/Realzero9/TIL/blob/master/Github/Md.md)
+- [github](https://github.com/Realzero9/TIL/blob/master/Github/Github.md)
 
-## [ETC](https://github.com/Realzero9/TIL/ETC.git)
+## [ETC](https://github.com/Realzero9/TIL/tree/master/ETC)
 
 ---
 

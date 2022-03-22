@@ -162,4 +162,4 @@
 - 공동작업자와 협업하기 위한 설정 및 명령어
 - 하나의 `원격저장소` 에 공동 작업자가 있을 때, 아래와 같은 구조를 이룸
 
-![image-20211222193906772](day2.assets/image-20211222193906772.png)
+![git_ClonePull](Github.assets/git_ClonePull.png)
