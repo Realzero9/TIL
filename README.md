@@ -19,6 +19,3 @@
 - [About_csvfile](https://github.com/Realzero9/TIL/blob/master/ETC/About_csvfile.md)
 ---
 
- 
-
- 
