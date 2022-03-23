@@ -11,7 +11,7 @@
 
 # Local - Github 연결하기
 
-	### 1. Local 설정
+### 1. Local 설정
 
 - 홈 디렉토리 - `로컬저장소` 폴더 생성 (폴더명 자유)
 
@@ -58,7 +58,59 @@
 
   - Local 과 Remote 의 연결을 끊는 것, `원격저장소` 를 삭제하는 것 아님
 
+---
 
+# Local - Github(branch) 연결하기
+
+### 1. Local-Github 연결 명령어
+
+- Gitbash: 연결할 Repository 불러오기
+
+```
+git clone [Github path] [사용할폴더명]
+```
+
+- [생성한폴더]로 이동하기 (선택)
+
+```markdown
+cd [생성한폴더]
+```
+
+- Github와 연결하기
+
+```markdown
+# 초기화
+git init
+# 체크아웃
+git checkout [branch명]
+```
+
+### 2. branch Push
+
+- 터미널열기
+- Untracted/Modified 파일 add
+
+```markdown
+# 전체파일 -> Staged
+git add .
+# 지정파일 -> Staged
+git add [파일명]
+```
+
+- Staged 파일 commit
+
+```markdown
+git commit -m 'msg'
+```
+
+- commit 파일 branch로 push
+
+```markdown
+git push origin [branch명]
+```
+
+- master에서 Pull requests 요청
+- master -> Verified 하면 Push완료
 
 ---
 
@@ -123,7 +175,7 @@
 
 ---
 
-## github 커밋 삭제
+## 1. github 커밋 삭제
 
 - 마지막 커밋 삭제
 
@@ -144,7 +196,7 @@
   git commit --amend
   ```
 
-## 원격저장소 파일 삭제
+## 2. 원격저장소 파일 삭제
 
 - 원격저장소 파일 삭제
 
@@ -157,7 +209,37 @@
 
 ---
 
-# Git - clone, pull
+## 3. Git push 취소
+
+- 원하는 시점 확인하기
+
+  ```markdown
+  git log
+  ```
+
+- 원하는 시점으로 세팅하기
+
+  ```markdown
+  git reset [commit id]
+  ```
+
+- 세팅된 상태에서 커밋하기
+
+  ```markdown
+  git commit -m 'msg'
+  ```
+
+- 원격저장소에 강제 푸시하기
+
+  ```markdown
+  # branch 강제 push
+  git push origin [branch name] -f
+  git push origin +[branch name]
+  # origin 강제 push
+  git push origin +master
+  ```
+
+## 4. Git - clone, pull
 
 - 공동작업자와 협업하기 위한 설정 및 명령어
 - 하나의 `원격저장소` 에 공동 작업자가 있을 때, 아래와 같은 구조를 이룸
