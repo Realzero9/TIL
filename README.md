@@ -12,6 +12,7 @@
 ## [Algorithm_info](https://github.com/Realzero9/TIL/tree/master/Algorithm_info)
 
 - [Algorithm_BinaryIndexTree](https://github.com/Realzero9/TIL/blob/master/Algorithm_info/Algorithm_BinaryIndexTree.md)
+- [Algorithm_ValueSort](https://github.com/Realzero9/TIL/blob/master/Algorithm_info/Algorithm_ValueSort.md)
 
 ## [Github](https://github.com/Realzero9/TIL/tree/master/Github)
 
@@ -26,3 +27,6 @@
 ---
 
 - [README](https://github.com/Realzero9/TIL/blob/master/README.md)
+- [Rz_Algorithm_BigO](https://github.com/Realzero9/TIL/blob/master/Rz_Algorithm_BigO.md)
+- [Rz_Statistics](https://github.com/Realzero9/TIL/blob/master/Rz_Statistics.md)
+- [Rz_Tensorflow](https://github.com/Realzero9/TIL/blob/master/Rz_Tensorflow.md)
