@@ -34,3 +34,6 @@
 - [Rz_Algorithm_BigO](https://github.com/Realzero9/TIL/blob/master/Rz_Algorithm_BigO.md)
 - [Rz_Statistics](https://github.com/Realzero9/TIL/blob/master/Rz_Statistics.md)
 - [Rz_Tensorflow](https://github.com/Realzero9/TIL/blob/master/Rz_Tensorflow.md)
+- [Rz_MachineLearning](https://github.com/Realzero9/TIL/blob/master/Rz_MachineLearning.md)
+- [Rz_CloudEnv](https://github.com/Realzero9/TIL/blob/master/Rz_CloudEnv.md)
+
