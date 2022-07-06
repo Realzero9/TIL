@@ -9,7 +9,7 @@
 
 Realzero9/TIL Repository 설명
 
-# # List of Realzero9
+# List of Realzero9
 
 ## [0.ETC](https://github.com/Realzero9/TIL/tree/master/ETC)
 
@@ -32,7 +32,3 @@ Realzero9/TIL Repository 설명
 ## [5.Web](https://github.com/Realzero9/TIL/tree/master/5.Web)
 
 웹(클라우드, 도커 등) 관련자료 정리
-
-## [6.PowerBI](https://github.com/Realzero9/TIL/tree/master/6.PowerBI)
-
-PowerBI 사용한 데이터 시각화 자료 정리(연습)
